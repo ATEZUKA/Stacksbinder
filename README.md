@@ -57,4 +57,5 @@ Options:
 J. Catchen, P. Hohenlohe, S. Bassham, A. Amores, and W. Cresko. Stacks: an analysis tool set for population genomics. Molecular Ecology. 2013.
 http://catchenlab.life.illinois.edu/stacks/
 # Citation  
-M. Yasugi, A. Tezuka and A. J. Nagano (in press) "Stacksbinder: online tools for visualizing and summarizing Stacks output to aid appropriate filtering of SNPs identified via RAD-Seq" Conservation Genetic Resources
+M. Yasugi, A. Tezuka and A. J. Nagano (2018) "Stacksbinder: online tools for visualizing and summarizing Stacks output to aid appropriate filtering of SNPs identified via RAD-Seq" Conservation Genetic Resources
+https://doi.org/10.1007/s12686-018-1050-z
